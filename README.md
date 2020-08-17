@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="project-machine-translation">Project: Machine Translation</h1>
 <p>Machine translation is a popular topic in research with new papers coming out every year. Over the years of research, different methods were created, like  <a href="https://en.wikipedia.org/wiki/Rule-based_machine_translation">rule-based</a>,  <a href="https://en.wikipedia.org/wiki/Statistical_machine_translation">statistical</a>, and  <a href="https://en.wikipedia.org/wiki/Example-based_machine_translation">example-based</a>  machine translation. With all this effort, it’s still an unsolved problem. However, neural networks have made a large leap forward in machine translation.</p>
